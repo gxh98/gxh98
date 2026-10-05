@@ -15,6 +15,7 @@
 
 **AI 探索线**
 - [haoge-open-source-launch](https://github.com/gxh98/haoge-open-source-launch) —— 造它，是因为我第一次把项目开源到 GitHub 时，连 git 都不敢碰。
+- [haoge-opensource-skill-hunter](https://github.com/gxh98/haoge-opensource-skill-hunter) —— 造它，是因为我找一个微信导出工具，星数最高的全死光了。
 
 ---
 慢慢来，比较快。
