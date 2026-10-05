@@ -11,11 +11,11 @@
 **汽车行业线**（在造：奔驰避坑清单生成器 · 获客体检表——给想把本行业经验工具化的人做样板）
 
 **抖音博主线**
-- [haoge-news-insight](https://github.com/gxh98/haoge-news-insight) —— 造它，是因为我当抖音博主时，每天的行业新闻根本读不完。
+- [昊哥-新闻洞见](https://github.com/gxh98/haoge-news-insight) —— 造它，是因为我当抖音博主时，每天的行业新闻根本读不完。
 
 **AI 探索线**
-- [haoge-open-source-launch](https://github.com/gxh98/haoge-open-source-launch) —— 造它，是因为我第一次把项目开源到 GitHub 时，连 git 都不敢碰。
-- [haoge-opensource-skill-hunter](https://github.com/gxh98/haoge-opensource-skill-hunter) —— 造它，是因为我找一个微信导出工具，星数最高的全死光了。
+- [昊哥 · GitHub 开源发布流水线](https://github.com/gxh98/haoge-open-source-launch) —— 造它，是因为我第一次把项目开源到 GitHub 时，连 git 都不敢碰。
+- [昊哥-开源skill技能猎手](https://github.com/gxh98/haoge-opensource-skill-hunter) —— 造它，是因为我找一个微信导出工具，星数最高的全死光了。
 
 ---
 慢慢来，比较快。
