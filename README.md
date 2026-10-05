@@ -14,7 +14,7 @@
 - [昊哥-读新闻拿观点](https://github.com/gxh98/haoge-news-insight) —— 造它，是因为我当抖音博主时，每天的行业新闻根本读不完。
 
 **AI 探索线**
-- [昊哥 · GitHub 开源发布流水线](https://github.com/gxh98/haoge-open-source-launch) —— 造它，是因为我第一次把项目开源到 GitHub 时，连 git 都不敢碰。
+- [昊哥-开源Skill技能不踩坑](https://github.com/gxh98/haoge-open-source-launch) —— 造它，是因为我第一次把项目开源到 GitHub 时，连 git 都不敢碰。
 - [昊哥-开源skill技能猎手](https://github.com/gxh98/haoge-opensource-skill-hunter) —— 造它，是因为我找一个微信导出工具，星数最高的全死光了。
 - [昊哥-产品起名就能卖](https://github.com/gxh98/haoge-product-naming) —— 造它，是因为读了华杉《超级符号就是超级创意》，先拿它给自家技能起了名。
 
